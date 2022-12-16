@@ -99,7 +99,7 @@ PanelTransfer.java - Class that creates the panel where customer can see transfe
 ## How to compile and run
 ---------------------------------------------------------------------------
 1. Navigate to the folder/src after unzipping the files
-   cd {project_path}/cs611/src
+   cd {project_path}/cs611Final
 2. Run the following instructions:
    javac -cp "org.json.jar" *.java
    java -cp "org.json.jar":  FrontMain.java
